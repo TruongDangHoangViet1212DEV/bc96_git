@@ -1,5 +1,8 @@
 # bc96_git
+<<<<<<< HEAD
 asjkdbakd
+=======
+>>>>>>> 893352b (.)
 git config --global user.name ""
 git config --global user.email ""
 git init : thông báo sẽ git cho folfer này, chỉ làm 1 lần cho mỗi dự án
@@ -41,3 +44,4 @@ c: conflict
 
 git checkout  : đi đến lần commit nào đó , đi đến main/ master
 branch : nhánh
+hello cybersoft
