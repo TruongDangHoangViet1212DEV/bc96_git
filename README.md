@@ -1,1 +1,43 @@
 # bc96_git
+git config --global user.name ""
+git config --global user.email ""
+git init : thông báo sẽ git cho folfer này, chỉ làm 1 lần cho mỗi dự án
+
+git remote add origin duong_dan_den_repo_git : kết nối folder hiện tại với repo trên git
+VD: git remote add origin https://github.com/hothiphuongnga/bc96_git.git
+
+git remote -v : kiểm tra lại thông tin 
+
+
+-- đẩy code lên github
+
+git add .
+
+git commit -m "noidung commit"
+
+
+git push
+    ở lần push 
+    git push -u origin main/master
+
+    lần bình thường (not first)
+    git push
+
+
+
+file màu xanh        file mới tạo 
+xanh dương: file có thay đổi
+
+
+
+u: untracked
+m: 
+a
+d: delete
+r: rename
+c: conflict
+
+
+git checkout  : đi đến lần commit nào đó , đi đến main/ master
+branch : nhánh
+hello cybersoft
